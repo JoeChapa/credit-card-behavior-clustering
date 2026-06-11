@@ -62,7 +62,7 @@ Using transaction data from 5,000 credit card accounts, I:
 
 ## Data
 
-**Source:** [Credit Card Transactions dataset](https://www.kaggle.com/datasets) via Kaggle  
+**Source:** [Credit Card Transactions dataset](https://www.kaggle.com/datasets/tjverry/credit-card-transactions) via Kaggle  
 5,000 unique accounts · multi-category transaction data · no PII
 
 ---
@@ -70,7 +70,7 @@ Using transaction data from 5,000 credit card accounts, I:
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/credit-card-rewards-clustering
+git clone https://github.com/JoeChapa/credit-card-rewards-clustering
 cd credit-card-rewards-clustering
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
